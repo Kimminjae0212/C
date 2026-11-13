@@ -1,0 +1,39 @@
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+
+int main(void)
+{
+	char G;
+
+	printf("학점을 입력하시오: ");
+	scanf("%c", &G);
+
+	switch (G)
+	{
+	case 'A':
+		printf("아주 잘했어요!");
+		break;
+
+	case 'B':
+		printf("좋습니다.");
+		break;
+
+	case 'C':
+		printf("만족스럽습니다.");
+		break;
+
+	case 'D':
+		printf("더 노력해보세요");
+		break;
+
+	case 'F':
+		printf("안타깝습니다.");
+		break;
+
+	default:
+		printf("A,B,C,D,F 중에서 하나만 입력하시오");
+		break;
+	}
+	printf("\n");
+	return 0;
+}
