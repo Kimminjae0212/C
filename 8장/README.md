@@ -14,3 +14,7 @@
 ## 8-4
 ### 실행 결과
 <img width="1317" height="218" alt="image" src="https://github.com/user-attachments/assets/a72021fe-f0b7-4feb-8376-cb5d4db24ce1" />
+
+## 8-5
+### 실행 결과
+<img width="1325" height="202" alt="image" src="https://github.com/user-attachments/assets/b3c3f8fd-8e80-4ee1-9aad-65fa7b53d7c6" />
