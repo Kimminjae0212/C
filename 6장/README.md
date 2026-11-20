@@ -8,6 +8,10 @@
 ### 실행 결과
 <img width="1440" height="275" alt="image" src="https://github.com/user-attachments/assets/59e214a2-4c46-4f45-a9b2-67292216ce68" />
 
+## 6-4
+### 실행 결과
+<img width="1386" height="273" alt="image" src="https://github.com/user-attachments/assets/619e74e1-e5df-4a51-9176-01a2a2737e60" />
+
 ## 6-8
 ### 실행 결과
 <img width="305" height="668" alt="image" src="https://github.com/user-attachments/assets/a0f59674-4e43-4ab5-9f8b-deff3b9f0a1a" />
